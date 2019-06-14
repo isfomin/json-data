@@ -62,6 +62,13 @@
          "category": "Chess",
          "description": "Gold-plated, diamond-studded King",
          "price": 1200
+      },
+      {
+         "id": 10,
+         "name": "Бита",
+         "category": "Бейсбол",
+         "discription": "Твёрдая деревянная бейсбольная бита Харли Куинн... ппц",
+         "price": 1579.47
       }
    ],
    "orders": []
