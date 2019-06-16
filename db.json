@@ -85,5 +85,9 @@
          "price": 1256.58
       }
    ],
-   "orders": []
+   "orders": [],
+   "login": {
+      "success": true,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiYWRtaW4iLCJleHBpcmVzSW4iOiIxaCIsImlhdCI6MTU2MDY2NTY0Mn0.NWYJvneuNlHdJdoxi0UIieWYyzqjjsjhl8wC0ixgxCY"
+   }
 }
