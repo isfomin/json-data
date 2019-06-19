@@ -167,6 +167,32 @@
         "zip": "8474",
         "country": "coutry",
         "id": 2
+      },
+      {
+        "cart": {
+          "lines": [
+            {
+              "product": {
+                "id": 2,
+                "name": "Lifejacket",
+                "category": "Watersports",
+                "description": "Protective and fashionable",
+                "price": 48.95
+              },
+              "quantity": 1
+            }
+          ],
+          "itemCount": 1,
+          "cartPrice": 48.95
+        },
+        "shipped": false,
+        "name": "user234212",
+        "address": "21 km on west",
+        "city": "holm",
+        "state": "state",
+        "zip": "00001",
+        "country": "north",
+        "id": 3
       }
    ],
    "login": {
