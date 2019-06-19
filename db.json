@@ -121,6 +121,52 @@
         "zip": "zip000234",
         "country": "country",
         "id": 1
+      },
+      {
+        "cart": {
+          "lines": [
+            {
+              "product": {
+                "id": 11,
+                "name": "Легендарный бейсбольный мяч Уилли Мэйса",
+                "category": "Бейсбол",
+                "description": "Сам легендарный Тед Уилльямс однажды сказал: «Они придумали Матч Всех Звезд для Уилли Мэйса»",
+                "price": 1000
+              },
+              "quantity": 1
+            },
+            {
+              "product": {
+                "id": 10,
+                "name": "Бита",
+                "category": "Бейсбол",
+                "description": "Твёрдая деревянная бейсбольная бита Харли Куинн..",
+                "price": 1579.47
+              },
+              "quantity": 5
+            },
+            {
+              "product": {
+                "id": 5,
+                "name": "Stadium",
+                "category": "Soccer",
+                "description": "Flat-packed 35,000-seat stadium",
+                "price": 79500
+              },
+              "quantity": 1
+            }
+          ],
+          "itemCount": 7,
+          "cartPrice": 88397.35
+        },
+        "shipped": false,
+        "name": "name",
+        "address": "dom 5",
+        "city": "dom",
+        "state": "state",
+        "zip": "8474",
+        "country": "coutry",
+        "id": 2
       }
    ],
    "login": {
