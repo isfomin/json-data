@@ -198,5 +198,71 @@
    "login": {
       "success": true,
       "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiYWRtaW4iLCJleHBpcmVzSW4iOiIxaCIsImlhdCI6MTU2MDY2NTY0Mn0.NWYJvneuNlHdJdoxi0UIieWYyzqjjsjhl8wC0ixgxCY"
-   }
+   },
+   "projects": [
+      {
+         "id": 1,
+         "name": "SportStore",
+         "link": "https://isfomin.github.io/SportStore",
+         "description": "Учебный проект по книге Адама Фримена \"Angular для профессионалов\"",
+         "year": "2019",
+         "ready": true
+      },
+      {
+         "id": 2,
+         "name": "MercuryCars",
+         "link": "",
+         "description": "В работе",
+         "year": "2019",
+         "ready": false
+      },
+      {
+         "id": 3,
+         "name": "PlanKapkan",
+         "link": "",
+         "description": "В работе",
+         "year": "2016 - ?",
+         "ready": false
+      },
+      {
+         "id": 4,
+         "name": "Вёрстка «Суши Мастер»",
+         "link": "https://isfomin.github.io/makeup/sushi/",
+         "description": "Простая верстка главной страницы, страницы контактов и корзины. Без поддержки мобильных устройств, не адаптивная.",
+         "year": "2016",
+         "ready": true
+      },
+      {
+         "id": 6,
+         "name": "Игра 2048",
+         "link": "https://javarush.ru/projects/apps/5719",
+         "description": "Курс «Javarush». Классический вариант игры 2048.",
+         "year": "2018",
+         "ready": true
+      },
+      {
+         "id": 7,
+         "name": "Игра Moon Lander",
+         "link": "https://javarush.ru/projects/apps/5983",
+         "description": "Курс «Javarush». Игра наподобие Lunar Lander созданной в 1979 году.",
+         "year": "2018",
+         "ready": true
+      },
+      {
+         "id": 8,
+         "name": "Игра Racer",
+         "link": "https://javarush.ru/projects/apps/6661",
+         "description": "Курс «Javarush». Аналог игры Donkey.bas созданной в 1981 году.",
+         "year": "2018",
+         "ready": true
+      },
+      {
+         "id": 5,
+         "name": "Сайт «ilyk.ru»",
+         "link": "",
+         "description": "Портфолио программиста Фомина Сергея",
+         "year": "2019",
+         "reader": true
+      }
+   ]
 }
