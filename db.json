@@ -210,6 +210,15 @@
          "ready": true
       },
       {
+         "id": 5,
+         "name": "Сайт «ilyk.ru»",
+         "link": "",
+         "description": "Портфолио программиста Фомина Сергея",
+         "year": "2019",
+         "github-link": "",
+         "reader": true
+      },
+      {
          "id": 2,
          "name": "MercuryCars",
          "link": "",
@@ -280,15 +289,6 @@
          "year": "2019 - ?",
          "github-link": "",
          "ready": true
-      },
-      {
-         "id": 5,
-         "name": "Сайт «ilyk.ru»",
-         "link": "",
-         "description": "Портфолио программиста Фомина Сергея",
-         "year": "2019",
-         "github-link": "",
-         "reader": true
       }
    ]
 }
