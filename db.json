@@ -206,6 +206,7 @@
          "link": "https://isfomin.github.io/SportStore",
          "description": "Учебный проект по книге Адама Фримена \"Angular для профессионалов\"",
          "year": "2019",
+         "github-link": "https://github.com/iSFomin/isfomin.github.io/tree/master/src/SportsStore",
          "ready": true
       },
       {
@@ -214,6 +215,7 @@
          "link": "",
          "description": "В работе",
          "year": "2019",
+         "github-link": "",
          "ready": false
       },
       {
@@ -222,6 +224,7 @@
          "link": "",
          "description": "В работе",
          "year": "2016 - ?",
+         "github-link": "",
          "ready": false
       },
       {
@@ -230,6 +233,7 @@
          "link": "https://isfomin.github.io/makeup/sushi/",
          "description": "Простая верстка главной страницы, страницы контактов и корзины. Без поддержки мобильных устройств, не адаптивная.",
          "year": "2016",
+         "github-link": "",
          "ready": true
       },
       {
@@ -238,6 +242,7 @@
          "link": "https://javarush.ru/projects/apps/5719",
          "description": "Курс «Javarush». Классический вариант игры 2048.",
          "year": "2018",
+         "github-link": "",
          "ready": true
       },
       {
@@ -246,6 +251,7 @@
          "link": "https://javarush.ru/projects/apps/5983",
          "description": "Курс «Javarush». Игра наподобие Lunar Lander созданной в 1979 году.",
          "year": "2018",
+         "github-link": "",
          "ready": true
       },
       {
@@ -254,6 +260,7 @@
          "link": "https://javarush.ru/projects/apps/6661",
          "description": "Курс «Javarush». Аналог игры Donkey.bas созданной в 1981 году.",
          "year": "2018",
+         "github-link": "",
          "ready": true
       },
       {
@@ -262,6 +269,7 @@
          "link": "",
          "description": "Портфолио программиста Фомина Сергея",
          "year": "2019",
+         "github-link": "",
          "reader": true
       }
    ]
