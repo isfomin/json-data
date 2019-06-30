@@ -214,7 +214,7 @@
          "name": "MercuryCars",
          "link": "",
          "description": "В работе",
-         "year": "2019",
+         "year": "2019 - ?",
          "github-link": "",
          "ready": false
       },
@@ -277,7 +277,7 @@
          "name": "Игра Space Invaders",
          "link": "",
          "description": "Курс «Javarush». Наподобие игры созданной в 1978 году для аркадных автоматов. В работе.",
-         "year": "2019",
+         "year": "2019 - ?",
          "github-link": "",
          "ready": true
       },
