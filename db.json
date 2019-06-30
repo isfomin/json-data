@@ -240,7 +240,7 @@
          "id": 9,
          "name": "Вёрстка «ТГС»",
          "link": "https://isfomin.github.io/makeup/tgs/",
-         "description": "Простая верстка главной страницы для застройщика «ТюменьГасСтрой». Без поддержки мобильных устройств, не адаптивная.",
+         "description": "Простая верстка главной страницы для застройщика «ТюменьГазСтрой». Без поддержки мобильных устройств, не адаптивная.",
          "year": "2016",
          "github-link": "https://github.com/iSFomin/isfomin.github.io/tree/master/makeup/tgs",
          "ready": true
