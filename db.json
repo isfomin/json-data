@@ -273,6 +273,15 @@
          "ready": true
       },
       {
+         "id": 10,
+         "name": "Игра Space Invaders",
+         "link": "",
+         "description": "Курс «Javarush». Наподобие игры созданной в 1978 году для аркадных автоматов. В работе.",
+         "year": "2018",
+         "github-link": "",
+         "ready": true
+      },
+      {
          "id": 5,
          "name": "Сайт «ilyk.ru»",
          "link": "",
