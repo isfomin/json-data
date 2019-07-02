@@ -211,7 +211,7 @@
       },
       {
          "id": 5,
-         "name": "Сайт «ilyk.ru»",
+         "name": "Сайт ilyk.ru",
          "link": "",
          "description": "Портфолио программиста Сергея Фомина",
          "year": "2019",
@@ -222,7 +222,7 @@
          "id": 2,
          "name": "MercuryCars",
          "link": "",
-         "description": "В работе",
+         "description": "CRM-система. В работе",
          "year": "2019 - ?",
          "github-link": "",
          "ready": false
@@ -231,7 +231,7 @@
          "id": 3,
          "name": "PlanKapkan",
          "link": "",
-         "description": "В работе",
+         "description": "Тайм-менеджер. В работе",
          "year": "2016 - ?",
          "github-link": "",
          "ready": false
