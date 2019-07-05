@@ -202,7 +202,7 @@
    "projects": [
       {
          "id": 1,
-         "name": "SportStore",
+         "name": "SportsStore",
          "link": "https://isfomin.github.io/SportStore",
          "description": "Учебный проект по книге Адама Фримена \"Angular для профессионалов\"",
          "year": "2019",
