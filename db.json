@@ -207,7 +207,8 @@
          "description": "Учебный проект по книге Адама Фримена \"Angular для профессионалов\"",
          "year": "2019",
          "github-link": "https://github.com/iSFomin/isfomin.github.io/tree/master/src/SportsStore",
-         "ready": true
+         "ready": true,
+         "mobile-device": false,
       },
       {
          "id": 5,
@@ -216,7 +217,8 @@
          "description": "Портфолио программиста Сергея Фомина",
          "year": "2019",
          "github-link": "",
-         "reader": true
+         "reader": true,
+         "mobile-device": true,
       },
       {
          "id": 2,
@@ -225,7 +227,8 @@
          "description": "CRM-система. В работе",
          "year": "2019 - ?",
          "github-link": "",
-         "ready": false
+         "ready": false,
+         "mobile-device": false,
       },
       {
          "id": 3,
@@ -234,7 +237,8 @@
          "description": "Тайм-менеджер. В работе",
          "year": "2016 - ?",
          "github-link": "",
-         "ready": false
+         "ready": false,
+         "mobile-device": false,
       },
       {
          "id": 4,
@@ -243,7 +247,8 @@
          "description": "Простая верстка главной страницы, страницы контактов и корзины. Без поддержки мобильных устройств, не адаптивная.",
          "year": "2016",
          "github-link": "https://github.com/iSFomin/isfomin.github.io/tree/master/makeup/sushi",
-         "ready": true
+         "ready": true,
+         "mobile-device": false,
       },
       {
          "id": 9,
@@ -252,7 +257,8 @@
          "description": "Верстка главной страницы для застройщика «ТюменьГазСтрой». Без поддержки мобильных устройств, не адаптивная.",
          "year": "2016",
          "github-link": "https://github.com/iSFomin/isfomin.github.io/tree/master/makeup/tgs",
-         "ready": true
+         "ready": true,
+         "mobile-device": false,
       },
       {
          "id": 6,
@@ -261,7 +267,8 @@
          "description": "Курс «Javarush». Классический вариант игры 2048.",
          "year": "2018",
          "github-link": "",
-         "ready": true
+         "ready": true,
+         "mobile-device": true,
       },
       {
          "id": 7,
@@ -270,7 +277,8 @@
          "description": "Курс «Javarush». Игра наподобие Lunar Lander созданной в 1979 году.",
          "year": "2018",
          "github-link": "",
-         "ready": true
+         "ready": true,
+         "mobile-device": true,
       },
       {
          "id": 8,
@@ -279,7 +287,8 @@
          "description": "Курс «Javarush». Аналог игры Donkey.bas созданной в 1981 году.",
          "year": "2018",
          "github-link": "",
-         "ready": true
+         "ready": true,
+         "mobile-device": true,
       },
       {
          "id": 10,
@@ -288,7 +297,8 @@
          "description": "Курс «Javarush». Наподобие игры созданной в 1978 году для аркадных автоматов.",
          "year": "2019",
          "github-link": "",
-         "ready": true
+         "ready": true,
+         "mobile-device": true,
       }
    ]
 }
