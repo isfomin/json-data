@@ -201,6 +201,10 @@
    },
    "projects": [
       {
+         "id": 0,
+         "name": "test"
+      },
+      {
          "id": 1,
          "name": "SportsStore",
          "link": "https://isfomin.github.io/SportStore",
