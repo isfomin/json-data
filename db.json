@@ -202,7 +202,8 @@
    "projects": [
       {
          "id": 0,
-         "name": "test"
+         "name": "test",
+         "prop": "test-prop"
       },
       {
          "id": 1,
