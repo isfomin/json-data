@@ -302,7 +302,8 @@
          "year": "2019",
          "github-link": "",
          "ready": true,
-         "mobile-device": true
+         "mobile-device": true,
+         "awords-link": "https://javarush.ru/groups/posts/gde-ispolzuetsya-java"
       }
    ]
 }
