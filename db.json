@@ -206,14 +206,14 @@
          "prop": "test-prop"
       },
       {
-         "id": 1,
-         "name": "SportsStore",
-         "link": "https://isfomin.github.io/SportStore",
-         "description": "Учебный проект по книге Адама Фримена \"Angular для профессионалов\"",
-         "year": "2019",
-         "github-link": "https://github.com/iSFomin/isfomin.github.io/tree/master/src/SportsStore",
+         "id": 11,
+         "name": "CriminalIntent",
+         "link": "",
+         "description": "Учебное андроид-приложение по книге \"Android программирование для профессионалов\" (Б. Филлипс и др.)",
+         "year": "2020",
+         "github-link": "",
          "ready": true,
-         "mobile-device": false
+         "mobile-device": true
       },
       {
          "id": 5,
@@ -224,6 +224,26 @@
          "github-link": "",
          "reader": true,
          "mobile-device": true
+      },
+      {
+         "id": 11,
+         "name": "PhotoGallery",
+         "link": "",
+         "description": "Учебное андроид-приложение по книге \"Android программирование для профессионалов\" (Б. Филлипс и др.)",
+         "year": "2020",
+         "github-link": "",
+         "ready": true,
+         "mobile-device": true
+      },
+      {
+         "id": 1,
+         "name": "SportsStore",
+         "link": "https://isfomin.github.io/SportStore",
+         "description": "Учебный проект по книге Адама Фримена \"Angular для профессионалов\"",
+         "year": "2019",
+         "github-link": "https://github.com/iSFomin/isfomin.github.io/tree/master/src/SportsStore",
+         "ready": true,
+         "mobile-device": false
       },
       {
          "id": 2,
