@@ -211,7 +211,7 @@
          "link": "",
          "description": "Учебное андроид-приложение по книге \"Android программирование для профессионалов\" (Б. Филлипс и др.)",
          "year": "2020",
-         "github-link": "",
+         "github-link": "https://github.com/iSFomin/AndroidPhillips/tree/master/CriminalIntent",
          "ready": true,
          "mobile-device": true
       },
@@ -231,7 +231,7 @@
          "link": "",
          "description": "Учебное андроид-приложение по книге \"Android программирование для профессионалов\" (Б. Филлипс и др.)",
          "year": "2020",
-         "github-link": "",
+         "github-link": "https://github.com/iSFomin/AndroidPhillips/tree/master/PhotoGallery",
          "ready": true,
          "mobile-device": true
       },
